@@ -11,7 +11,7 @@ This repository is a curated list of papers and open source code about competiti
 * Adversarial Attacks and Defences Competition [[Paper]](https://arxiv.org.pdf/1804.00097.pdf)
 
 
-## Competion and Solution
+## Competition and Solution
 * [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack)  
 **dongyp13 : 1th place** [[code]](https://github.com/dongyp13/Targeted-Adversarial-Attack)
 [[Boosting Adversarial Attacks with Momentum]](https://arxiv.org/abs/1710.06081)  
