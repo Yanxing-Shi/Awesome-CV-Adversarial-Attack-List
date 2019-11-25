@@ -63,7 +63,6 @@ yfreedomliTHU [[code]](https://github.com/yfreedomliTHU/IJCAI2019_AAAC)
 **tabsun 10th place** [[code]](https://github.com/tabsun/FaceAttack)  
 **InoriJam 11th place** [[code]](https://github.com/InoriJam/Insightface-Attack)  
 SunnyWangGitHub [[code]](https://github.com/SunnyWangGitHub/TianChi_Face_recognition_confrontation)
-[[Tech Report]](http://baijiahao.baidu.com/s?id=1605052049747008262&wfr=spider&for=pc)
 
 
 ## Repository
