@@ -59,9 +59,9 @@ snakers4 [[code]](https://github.com/snakers4/msc-2018-final)
 yfreedomliTHU [[code]](https://github.com/yfreedomliTHU/IJCAI2019_AAAC)
 
 * [天池：安全AI挑战者计划第一期-人脸识别对抗](https://tianchi.aliyun.com/competition/entrance/231745/introduction)  
-**BruceQFWang 4th place** [[code]](https://github.com/BruceQFWang/TIANCHI_BlackboxAdversial)  
-**tabsun 10th place** [[code]](https://github.com/tabsun/FaceAttack)  
-**InoriJam 11th place** [[code]](https://github.com/InoriJam/Insightface-Attack)  
+**BruceQFWang : 4th place** [[code]](https://github.com/BruceQFWang/TIANCHI_BlackboxAdversial)  
+**tabsun : 10th place** [[code]](https://github.com/tabsun/FaceAttack)  
+**InoriJam : 11th place** [[code]](https://github.com/InoriJam/Insightface-Attack)  
 SunnyWangGitHub [[code]](https://github.com/SunnyWangGitHub/TianChi_Face_recognition_confrontation)
 
 
