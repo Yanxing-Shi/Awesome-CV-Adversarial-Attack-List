@@ -14,7 +14,8 @@ This repository is a curated list of papers and open source code about competiti
 ## Competition and Solution
 * [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack)  
 **dongyp13 : 1th place** [[code]](https://github.com/dongyp13/Targeted-Adversarial-Attack)
-[[Boosting Adversarial Attacks with Momentum]](https://arxiv.org/abs/1710.06081)  
+[[Boosting Adversarial Attacks with Momentum]](https://arxiv.org/abs/1710.06081)   
+**rwightman : 5th place**[[code]](https://github.com/rwightman/pytorch-nips2017-adversarial)   
 rwightman : pytorch-nips2017-attack-example [[code]](https://github.com/rwightman/pytorch-nips2017-attack-example)  
 anlthms [[code]](https://github.com/anlthms/nips-2017)   
 erko [[code]](https://github.com/erko/nips17-targeted-attack)  
