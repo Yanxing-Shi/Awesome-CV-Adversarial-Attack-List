@@ -74,6 +74,7 @@ SunnyWangGitHub [[code]](https://github.com/SunnyWangGitHub/TianChi_Face_recogni
 * adversarial-example-pytorch [[Link]](https://github.com/sarathknv/adversarial-examples-pytorch)  
 * advertorch [[Link]](https://github.com/BorealisAI/advertorch)  
 * EvadeML-Zoo [[Link]](https://github.com/mzweilin/EvadeML-Zoo)
+* U-Turn [[Link]](https://github.com/layumi/U_turn)
 
 
 ## Tutorials
@@ -85,3 +86,4 @@ SunnyWangGitHub [[code]](https://github.com/SunnyWangGitHub/TianChi_Face_recogni
 * 清华参赛队防御组论文 [[Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser]](https://arxiv.org/abs/1712.02976) 
 * 动量迭代攻击和高层引导去噪：对抗样本攻防的新方法 [[Video]](http://www.mooc.ai/open/course/383)
 * AI安全大佬教你如何攻击云端图像分类模型|纯干货 [[Link]](http://www.sohu.com/a/320900665_114877)
+* IJCV2022 | 逆转特征让re-id模型从88.54%到0.15% [[Link]](https://zhuanlan.zhihu.com/p/593319732)
